@@ -1,0 +1,1 @@
+openssl req -x509 -newkey rsa:4096 -keyout privada.key -out certificado.crt -days 365 -nodes
